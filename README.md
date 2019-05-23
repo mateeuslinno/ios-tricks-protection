@@ -8,3 +8,6 @@ Simple tricks IOS Protection: Detect Jailbreak, SSL Pinning, ScreenCaching..
 [ ] SSL Pinning 
 
 [ ] Background Screen Caching
+
+
+<img src="https://raw.githubusercontent.com/mateeuslinno/ios-tricks-protection/master/Captura%20de%20Tela%202019-05-23%20a%CC%80s%2003.09.47.png">
