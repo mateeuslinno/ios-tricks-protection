@@ -22,5 +22,8 @@ I created this simple project for help developers and companies to protect your 
 ##### References:
 
 [0x000001 - Trustwave](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/jailbreak-detection-methods/)
+
 [0x000002 - Owasp](https://www.owasp.org/index.php/Mobile_Jailbreaking_Cheat_Sheet)
+
 Tks! 
+dctoralves <dctoralves@gmail.com>
