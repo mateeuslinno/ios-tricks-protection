@@ -9,12 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-    
-    func creatAlert(title:String, message:String){
-        let alert = UIAlertController(title: title, message: message, preferredStyle: UIAlertControllerStyle.alert)
-        alert.addAction(UIA)
-    
-    }
+   
     
     
     @IBAction func detect_jailbreak(){
