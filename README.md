@@ -1,9 +1,7 @@
 # ios-tricks-protection
 Simple tricks IOS Protection: Detect Jailbreak, SSL Pinning, ScreenCaching.. 
 
-I was doing pentest in App Mobile IOS and i reported some vulnerabilities as: 
-Detect Jailbreak, SSL Pinning and others types.. But for my surprise the companie answered me: 
-Fuck vuln!  :o 
+
 I created this simple project for help developers and companies to protect your  apps ios mobile. 
 
 
